@@ -6,3 +6,4 @@
 2016-04-06 01:39:52,088 ERROR FirstServletAndLog4J [084-exec-8] - Error level message
 2016-04-06 01:39:52,088 FATAL FirstServletAndLog4J [084-exec-8] - Fatal level message
 2016-04-06 01:39:52,088 INFO  FirstServletAndLog4J [084-exec-8] Wow! I'm configured!
+уававав
