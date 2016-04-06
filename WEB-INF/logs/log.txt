@@ -1,0 +1,8 @@
+2016-04-06 01:39:52,086 INFO  FirstServletAndLog4J [084-exec-8] Hello from Log4j!!!
+2016-04-06 01:39:52,087 INFO  FirstServletAndLog4J [084-exec-8] Connection was established with 127.0.0.1
+2016-04-06 01:39:52,087 INFO  FirstServletAndLog4J [084-exec-8] There are examples of different log-message levels:
+2016-04-06 01:39:52,088 INFO  FirstServletAndLog4J [084-exec-8] - Info level message
+2016-04-06 01:39:52,088 WARN  FirstServletAndLog4J [084-exec-8] - Warn level message
+2016-04-06 01:39:52,088 ERROR FirstServletAndLog4J [084-exec-8] - Error level message
+2016-04-06 01:39:52,088 FATAL FirstServletAndLog4J [084-exec-8] - Fatal level message
+2016-04-06 01:39:52,088 INFO  FirstServletAndLog4J [084-exec-8] Wow! I'm configured!
